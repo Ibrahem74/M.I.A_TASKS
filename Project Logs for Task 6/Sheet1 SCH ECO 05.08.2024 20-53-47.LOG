@@ -1,0 +1,4 @@
+Remove Pin=R3-1 From Net=MCU1 Signal
+Remove Pin=R4-2 From Net=MCU2 Signal
+Remove Pin=R5-1 From Net=MCU2 Ground
+Remove Pin=R6-2 From Net=MCU1 Ground
