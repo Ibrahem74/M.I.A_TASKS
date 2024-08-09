@@ -12,3 +12,9 @@ All problems are provided as links to Tinkercad.
 # Task_4
 ---------
 All provided files are python files and must be opened with a python compiler.
+# Task_5
+---------
+All problems are in a PDF file.
+# Task_6
+---------
+All files must be downloaded and opened with altium.
