@@ -18,3 +18,6 @@ All problems are in a PDF file.
 # Task_6
 ---------
 All files must be downloaded and opened with altium.
+# Task_7
+---------
+All basic linux commands are in the screenshots.
