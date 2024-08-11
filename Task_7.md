@@ -1,2 +1,9 @@
-1. ![Screenshot](Images/screen1.png)
-
+1. ![screenshot](Images/screen1.png)
+2. ![screenshot](Images/screen2.png)
+3. ![screenshot](Images/screen3.png)
+4. ![screenshot](Images/screen4.png)
+5. ![screenshot](Images/screen5.png)
+6. ![screenshot](Images/screen6.png)
+7. ![screenshot](Images/screen7.png)
+8. ![screenshot](Images/screen8.png)
+9. ![screenshot](Images/screen9.png)
